@@ -1,1 +1,20 @@
-#Presentations on MATLAB and Python
+Presentations on MATLAB and Python
+
+Delivered an introduction to the uses of MATLAB which focused on scenario building and visualizing future outcomes based on varying parameters.
+
+The same logic was applied to a derivatives simulation and we saw how MATLAB can help us easily perform advanced statistical analysis. 
+
+We applied some of this logic to our own recent SGA (student gov't) elections and imagined different ways we could test the election outcomes, such as does voting for one particular person (as a first choice, second choice etc.) imply a probabilty of voting for another particular individual?
+
+Many students expressed interest in getting together with a faculty member in order to get the full data and run some of these tests.
+
+Next we examined running Python via the Anaconda application, which makes the opening of new and running of ".ipynb" files a little easier to manage.
+
+When finding other, older resources in the ".ipynb" format, some are utilizing Py version 3.6, while others especially in finance use 2.7. It is helpful to download both versions, as Anaconda allows you to fairly easily switch between them.
+
+We reviewed how "pandas datareader" is a very helpful tool to quickly pull information from various sources such as Google Finance, the World Bank, EUROStat and many others.
+
+Ran through a quick test case of Python for Finance purposes, and we linked the ".ipynb" files to a repository so students can practice on their own. 
+
+8 people showed up, many others lamented they couldn't show due to class - mainly language. Next meeting will be held on a non-language class day, and preferably a day without so much activity so as to allow as many people as possible the opportunity to show up. 
+
